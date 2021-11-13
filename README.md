@@ -1,16 +1,18 @@
-- 👋 Hi, I’m Azvern Dias
+
+<h1 align="center">Hi 👋, I'm Azvern Dias,your friendly neighbourhood tech enthousiast</h1>
+<h3 align="center">A passionate game developer/CSE student from India.</h3>
+
+
 - 🕹 Game Dev: Unreal/Unity (C || C# || C++)
 - 👀 Also a React Native,Arduino,Java,Node JS dev
 - 🌱 Currently learning Flutter & Python 
 - 💞️ I’m looking to collaborate on all sorts of projects
 - 💻 I edit videos too!
-- 📫 Contact me here : https://linktr.ee/AzzTech
-<h1 align="center">Hi 👋, I'm Azvern Dias</h1>
-<h3 align="center">A passionate game developer/CSE student from India.</h3>
+
 
 - 🔭 Invite my bot to your discord server [Trippy](https://discord.com/oauth2/authorize?client_id=862580847641886790&permissions=8&scope=bot)
 
-- 👨‍💻 My Portfolio [https://linktr.ee/AzzTech](https://linktr.ee/AzzTech)
+- 👨‍💻 My Portfolio and Contact: [https://linktr.ee/AzzTech](https://linktr.ee/AzzTech)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
