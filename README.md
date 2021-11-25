@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Azvern Dias,your friendly neighbourhood tech enthousiast</h1>
+<h1 align="center">Hi 👋, I'm Azvern Dias,your friendly neighbourhood tech enthusiast</h1>
 <h3 align="center">A passionate game developer/CSE student from India.</h3>
 
 
