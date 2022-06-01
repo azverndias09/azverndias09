@@ -1,13 +1,13 @@
 
 <h1 align="center">Hi 👋, I'm Azvern Dias,your friendly neighbourhood tech enthusiast</h1>
-<h3 align="center">A passionate game developer/CSE student from India.</h3>
+<h3 align="center">A passionate Flutter Developer/CSE student from India.</h3>
 
-
+- 💻 FrontEnd Dev: Flutter (Android & Web)
 - 🕹 Game Dev: Unreal/Unity (C || C# || C++)
 - 👀 Also a React Native,Arduino,Java,Node JS dev
-- 🌱 Currently learning Flutter & Python 
-- 💞️ I’m looking to collaborate on all sorts of projects
-- 💻 I edit videos too!
+- 🌱 Currently freelancing and developing for startups
+- 💞️ Looking to collaborate on all sorts of projects
+- 🎥 I edit videos too!
 
 
 - 🔭 Invite my bot to your discord server [Trippy](https://discord.com/oauth2/authorize?client_id=862580847641886790&permissions=8&scope=bot)
