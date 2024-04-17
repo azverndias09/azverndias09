@@ -4,7 +4,7 @@
 
 - 💻 FrontEnd Dev: Flutter (Android & Web)
 - 🕹 Game Dev: Unreal/Unity (C || C# || C++)
-- 👀 Also a React Native,Arduino,Java,Node JS dev
+- 👀 Also a React ,Arduino,Java,Node JS dev
 - 🌱 Currently freelancing and developing for startups
 - 💞️ Looking to collaborate on all sorts of projects
 - 🎥 I edit videos too!
