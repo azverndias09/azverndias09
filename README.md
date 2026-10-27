@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Azvern Dias</h1>
-<h3 align="center">Software Engineer • Backend & AI Specialist • Full-Stack Developer</h3>
+<h3 align="center">Software Engineer at OnArrival • Backend & AI Specialist • Full-Stack Developer</h3>
 
 <p align="center">
 Building scalable, event-driven architectures, integrating AI agents, and shipping products that solve real-world problems 🚀
@@ -11,11 +11,22 @@ Building scalable, event-driven architectures, integrating AI agents, and shippi
 
 - 💻 **Backend & Cloud:** FastAPI, Node.js, Express, AWS (Lambda, RDS, SQS, EventBridge), PostgreSQL, Redis, Neo4j, Docker
 - 🤖 **AI & Automation:** Building multi-agent systems, GraphRAG, LangChain, n8n, OpenAI, Retell AI, Semantic Search (pgvector)
+- ☕ **JVM Services:** Kotlin, Ktor, Elasticsearch, MongoDB, Koin
 - ⚛️ **Frontend & Mobile:** React, Next.js, TypeScript, Tailwind CSS, Flutter (Android/Web)
 - 🎮 **Game Tech & AR (Roots):** Unreal Engine, Unity (C, C#, C++), 3D Visualization / Gaussian Splatting
-- 🚀 Currently working on multi-tenant backends, AI voice agents, and scalable SaaS platforms
+- 🚀 Currently at **OnArrival** (travel platform): building the backend behind activities search, browse and catalogue, hotel data pipelines, and internal tooling for managing collections
 - 🤝 Always open to impactful collaborations, hackathons, and innovative startups
 - 🎥 Community Builder: Former President of Coder's Club & Co-founder of ARM Robotics
+
+---
+
+## 🧭 What I've Been Shipping Lately
+
+- 🔎 **Search that forgives typos:** activities search handling misspellings, accents, compound words, and mixed place + activity queries; suggestions scoped to the page they're typed on
+- 📍 **Nearby results:** listing the whole city a user is in, kept consistent from page to page
+- 🗂️ **Catalogue refresh:** nightly catalogue and monthly browse-tree refresh jobs
+- 🏨 **Hotel data pipelines:** room-mapping sync feed for API clients, plus a reviews worker on Azure (Service Bus, Functions)
+- 🛠️ **Internal tooling:** a control-plane tab to create and manage activity collections
 
 ---
 
