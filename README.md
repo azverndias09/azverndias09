@@ -15,7 +15,7 @@ Building scalable, event-driven architectures, integrating AI agents, and shippi
 - ⚛️ **Frontend & Mobile:** React, Next.js, TypeScript, Tailwind CSS, Flutter (Android/Web)
 - 🎮 **Game Tech & AR (Roots):** Unreal Engine, Unity (C, C#, C++), 3D Visualization / Gaussian Splatting
 - 🚀 Currently at **OnArrival** (travel platform): building the backend behind activities search, browse and catalogue, hotel data pipelines, and internal tooling for managing collections
-- 🤝 Always open to impactful collaborations, hackathons, and innovative startups
+- 🤝 Always open to impactful collaborations, hackathons, and innovative ideas
 - 🎥 Community Builder: Former President of Coder's Club & Co-founder of ARM Robotics
 
 ---
